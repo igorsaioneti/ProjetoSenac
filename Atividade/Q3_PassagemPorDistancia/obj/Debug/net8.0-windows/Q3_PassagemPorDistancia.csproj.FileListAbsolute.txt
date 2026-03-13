@@ -1,0 +1,16 @@
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\bin\Debug\net8.0-windows\Q3_PassagemPorDistancia.exe
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\bin\Debug\net8.0-windows\Q3_PassagemPorDistancia.deps.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\bin\Debug\net8.0-windows\Q3_PassagemPorDistancia.runtimeconfig.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\bin\Debug\net8.0-windows\Q3_PassagemPorDistancia.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\bin\Debug\net8.0-windows\Q3_PassagemPorDistancia.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.Form1.resources
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.csproj.GenerateResource.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.AssemblyInfoInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.AssemblyInfo.cs
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.csproj.CoreCompileInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\refint\Q3_PassagemPorDistancia.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\Q3_PassagemPorDistancia.genruntimeconfig.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q3_PassagemPorDistancia\obj\Debug\net8.0-windows\ref\Q3_PassagemPorDistancia.dll

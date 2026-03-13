@@ -1,0 +1,16 @@
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\bin\Debug\net8.0-windows\Q5_CadastroSimples.exe
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\bin\Debug\net8.0-windows\Q5_CadastroSimples.deps.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\bin\Debug\net8.0-windows\Q5_CadastroSimples.runtimeconfig.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\bin\Debug\net8.0-windows\Q5_CadastroSimples.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\bin\Debug\net8.0-windows\Q5_CadastroSimples.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.Form1.resources
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.csproj.GenerateResource.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.AssemblyInfoInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.AssemblyInfo.cs
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\refint\Q5_CadastroSimples.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\Q5_CadastroSimples.genruntimeconfig.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q5_CadastroSimples\obj\Debug\net8.0-windows\ref\Q5_CadastroSimples.dll

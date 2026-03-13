@@ -1,0 +1,16 @@
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\bin\Debug\net8.0-windows\Q1.exe
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\bin\Debug\net8.0-windows\Q1.deps.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\bin\Debug\net8.0-windows\Q1.runtimeconfig.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\bin\Debug\net8.0-windows\Q1.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\bin\Debug\net8.0-windows\Q1.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.Form1.resources
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.csproj.GenerateResource.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.AssemblyInfoInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.AssemblyInfo.cs
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.csproj.CoreCompileInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\refint\Q1.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\Q1.genruntimeconfig.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q1\obj\Debug\net8.0-windows\ref\Q1.dll

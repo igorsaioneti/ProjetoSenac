@@ -1,0 +1,16 @@
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\bin\Debug\net8.0-windows\Q2_ConversorDolarReal.exe
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\bin\Debug\net8.0-windows\Q2_ConversorDolarReal.deps.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\bin\Debug\net8.0-windows\Q2_ConversorDolarReal.runtimeconfig.json
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\bin\Debug\net8.0-windows\Q2_ConversorDolarReal.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\bin\Debug\net8.0-windows\Q2_ConversorDolarReal.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.Form1.resources
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.csproj.GenerateResource.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.AssemblyInfoInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.AssemblyInfo.cs
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.csproj.CoreCompileInputs.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\refint\Q2_ConversorDolarReal.dll
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.pdb
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\Q2_ConversorDolarReal.genruntimeconfig.cache
+C:\Users\igor.samorim1\source\repos\Atividade\Q2_ConversorDolarReal\obj\Debug\net8.0-windows\ref\Q2_ConversorDolarReal.dll
